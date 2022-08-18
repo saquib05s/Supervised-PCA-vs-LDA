@@ -3,4 +3,4 @@ Analytical comparison of the mentioned two methods of reducing dimensionality of
 
 You can read the paper in Research_Project_SPCAvsLDA
 
-File lda.ipynb contains LDA method of dimensionalty reduction using DNN, while ghodsi_supervised_pca contains SPCA method.
+File lda.ipynb contains LDA method of dimensionalty reduction using DNN, while ghodsi_supervised_pca.ipynb contains SPCA method.
